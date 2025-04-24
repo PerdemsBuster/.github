@@ -18,7 +18,7 @@ All digital assets are deployed on **Starknet**, enabling scalability, transpare
 
 ## 🔧 Tech Stack
 
-- Blockchain: Starknet (zk-Rollup on Ethereum)
+- Blockchain: Ethereum & Polygon
 - Smart Contracts: Cairo
 - Frontend: React, TypeScript
 - Backend: Node.js, PostgreSQL
