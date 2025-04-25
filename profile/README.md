@@ -18,8 +18,8 @@ All digital assets are deployed on **Starknet**, enabling scalability, transpare
 
 ## 🔧 Tech Stack
 
-- Blockchain: Starknet (zk-Rollup on Ethereum)
-- Smart Contracts: Cairo
+- Blockchain: Ethereum & Polygon
+- Smart Contracts: Solidity ERC-721 & ERC-1155
 - Frontend: React, TypeScript
 - Backend: Node.js, PostgreSQL
 - Infrastructure: IPFS, Pinata
